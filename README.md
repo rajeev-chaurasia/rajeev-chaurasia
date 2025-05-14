@@ -19,17 +19,26 @@ I'm a Software Engineering graduate student at **San Jose State University** wit
 </p>
 
 ---
-
 💻 **Skills & Technologies:**
 
-* **Languages:** `Java`, `C++`, `JavaScript`, `TypeScript`, `SQL`
-* **Backend:** `Spring Boot`, `Microservices`, `REST APIs`, `Design Patterns`, `JPA/Hibernate`, `JDBC`
+* **Languages:** `Java`, `Python`, `JavaScript`, `TypeScript`, `SQL`, `C++`
+* **Backend & Frameworks:**
+    * `Spring Boot`, `Spring Data JPA`, `Hibernate`, `JDBC`
+    * `Python (Flask)` for AI/ML services
+    * `Microservices Architecture`, `REST APIs`, `Design Patterns`
 * **Frontend:** `React.js`, `Next.js`
-* **Databases:** `MySQL`, `MongoDB`, `ElasticSearch`
-* **Messaging/Streams:** `Kafka`
-* **Cloud & DevOps:** `AWS`, `Docker`, `CI/CD`, `GitHub Actions`
-* **Concepts:** `Object Oriented Programming (OOP)`, `Data Structures`, `Algorithms`
-* **Tools & APIs:** `Git`, `IntelliJ IDEA`, `Postman`, `JIRA`, `Swagger/OpenAPI`, `Google Maps API`
+* **Cloud & DevOps:**
+    * **AWS:** `Elastic Beanstalk`, `EC2`, `ELB`, `ASG`, `ECR`, `Cognito`, `Lambda`, `S3`, `SES`
+    * **Google Cloud:** `Vertex AI (Gemini Flash)`
+    * `Docker`, `CI/CD`, `GitHub Actions`
+* **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`, `ElasticSearch`
+* **AI/ML & Agentic AI:**
+    * `CrewAI` (Agentic AI Framework)
+    * `Natural Language Understanding (NLU)` concepts
+    * LLM integration (e.g., `Google Vertex AI`)
+* **Messaging/Streams:** `RabbitMQ`, `Kafka`
+* **Core Concepts:** `Object Oriented Programming (OOP)`, `Data Structures & Algorithms`
+* **Tools & APIs:** `Git`, `IntelliJ IDEA`, `Postman`, `JIRA`, `Swagger/OpenAPI`, `Google Maps API`, `Serper API`, `Telegram Bot API`
 
 ---
 
