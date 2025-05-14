@@ -63,11 +63,27 @@ I'm a Software Engineering graduate student at **San Jose State University** wit
 * ### [BookTable](https://github.com/gopinathsjsu/team-project-20201-synergy)
     * A full-stack restaurant booking system developed for the Software Systems Engineering (CMPE-202) course at SJSU.
     * **My Contributions:**
-        * Led backend project setup, configured **AWS deployment**, implemented **Docker** containerization, and set up the **CI/CD pipeline** using GitHub Actions.
-        * Developed backend for Login/Registration with OTP support and Restaurant Search functionality (including geocoding integration).
-        * Implemented full-stack features for Restaurant Managers (Add/Update/View Restaurants UI & Backend).
-        * Developed UI and Backend for user profile and viewing booking history.
-    * *Tech Stack: Java, Spring Boot, Next.js, React, AWS, Docker, GitHub Actions, Google Maps Geocoding API, MySQL*
+        * **Cloud & DevOps Orchestration:**
+            * Led backend project setup (Spring Boot) and engineered deployment on **AWS Elastic Beanstalk** (EC2, ELB, ASG).
+            * Implemented **Docker** containerization with images in **AWS ECR**, and established a **CI/CD pipeline via GitHub Actions** (including JaCoCo for test coverage).
+        * **Secure Backend Services:**
+            * Developed user authentication (Login/Registration) using **AWS Cognito**, including **OTP support via AWS Lambda** custom triggers and role-based UI redirection.
+            * Built core restaurant functionalities: location-based search (**MySQL spatial functions, Google Maps Geocoding API**), nearby suggestions, and booking conflict management.
+            * Integrated **AWS SES** with Thymeleaf for automated booking confirmation/cancellation emails.
+        * **Full-Stack Feature Development (Next.js/React & Spring Boot):**
+            * **Restaurant Manager Portal:** UI/UX for restaurant CRUD operations, dashboard, and secure image uploads to **AWS S3** using pre-signed URLs.
+            * **User Portal:** UI/UX for viewing user profiles and managing past/upcoming bookings.
+    * *Tech Stack: Java, Spring Boot, Next.js, React, AWS (Elastic Beanstalk, EC2, ELB, ASG, ECR, Cognito, Lambda, S3, SES), Docker, GitHub Actions, JaCoCo, MySQL (Spatial), Google Maps API, Thymeleaf*
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeev-chaurasia&show_icons=true&theme=radical" alt="Rajeev's GitHub Stats" height="170"/>&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeev-chaurasia&layout=compact&theme=radical" alt="Top Languages" height="170"/>&nbsp;&nbsp;
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeev-chaurasia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170"/>
+  </a>
+</p>
 
 ---
 
