@@ -12,7 +12,7 @@
   </a>
 </p>
 
-As a passionate Software Engineering student, I thrive on architecting scalable distributed systems, developing robust microservices, and building AI-driven, full-stack applications. My focus is on leveraging modern cloud technologies and best practices to create impactful, efficient, and innovative software solutions. This page highlights my technical skills and features some of the projects I'm most proud of.
+As a passionate Software Engineering student, I thrive on architecting scalable distributed systems, developing robust microservices, and building AI-driven, full-stack applications. My focus is on leveraging modern cloud technologies and best practices to create impactful, efficient, and innovative software solutions.
 
 ---
 
