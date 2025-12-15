@@ -12,29 +12,29 @@
   </a>
 </p>
 
-### Distributed Systems Engineer | High-Performance Architecture
+### Software Engineer | MS in Software Engineering @ SJSU
 
-I architect systems that handle **high throughput** and **low latency** at scale. Previously at **Tekion Corp**, I engineered financial pipelines processing millions of transactions. Currently, I build **Zero-GC trading engines**, **real-time telemetry streams**, and **multi-agent AI swarms**. 
+I am a graduate student with **2.5 years of production experience** building scalable backend systems. Previously at **Tekion Corp**, I helped engineer financial pipelines that processed millions of transactions. 
 
-I don't just write code; I design for **concurrency**, **fault tolerance**, and **eventual consistency**.
+Currently, I am deep-diving into **Distributed Systems** and **AI**, building projects like **low-latency trading engines** and **real-time telemetry streams**. I am passionate about writing clean, concurrency-safe code and am looking for **Internship / New Grad** opportunities to apply these skills at scale.
 
 ---
 
-## ⚡ Technical Arsenal
+## 🛠️ Engineering Toolkit
 
-I specialize in polyglot development, choosing the right tool for the architectural trade-off.
+I believe in choosing the right tool for the job. Here is the stack I use to build reliable, high-performance software:
 
 | **Domain** | **Stack & Patterns** |
 | :--- | :--- |
-| **Distributed Systems** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white) ![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white) <br> *Event Sourcing, CQRS, Pub/Sub, Protobuf* |
-| **Core Engineering** | ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) <br> *Concurrency Control, Lock-Free Algorithms, Memory Optimization* |
-| **AI & ML Engineering** | ![CrewAI](https://img.shields.io/badge/CrewAI-1A73E8?style=flat-square&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black) ![VertexAI](https://img.shields.io/badge/Google_Vertex-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_Vision-412991?style=flat-square&logo=openai&logoColor=white) <br> *RAG, Multi-Agent Orchestration, Vector Search* |
-| **Data & Storage** | ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Elastic](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) <br> *Time-Series, Spatial Indexing, Caching Strategies, JSONB* |
+| **Distributed Systems** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white) ![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white) <br> *Event-Driven Architecture, Pub/Sub, Protobuf* |
+| **Core Languages** | ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) <br> *Object-Oriented Design, Concurrency, Algorithms* |
+| **AI & ML Engineering** | ![CrewAI](https://img.shields.io/badge/CrewAI-1A73E8?style=flat-square&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black) ![VertexAI](https://img.shields.io/badge/Google_Vertex-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_Vision-412991?style=flat-square&logo=openai&logoColor=white) <br> *Multi-Agent Systems, RAG, LLM Integration* |
+| **Data & Storage** | ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Elastic](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) <br> *Time-Series, Spatial Indexing, Caching Strategies* |
 | **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![NeoN3](https://img.shields.io/badge/Neo_N3_Blockchain-00E599?style=flat-square&logo=neo&logoColor=black) |
 
 ---
 
-## 🏗️ Featured Engineering Projects
+## 🏗️ Featured Projects
 
 ### 🏎️ [VoltStream - Real-Time EV Telemetry Engine](https://github.com/rajeev-chaurasia/voltstream)
 > **"Processing 10,000 events/second with sub-5ms latency."**
@@ -45,7 +45,7 @@ A distributed system designed to ingest and visualize massive sensor data stream
 * **Data:** Persists high-velocity data to **InfluxDB** for time-series analysis.
 * **Frontend:** **Next.js** dashboard with Server-Sent Events (SSE) for live tracking.
 
-### 📉 [Pulse - High-Frequency Trading Engine](https://github.com/rajeev-chaurasia/limit-order-book)
+### 📉 [High-Performance Limit Order Book](https://github.com/rajeev-chaurasia/limit-order-book)
 > **"Zero-GC, Lock-Free Concurrency."**
 
 A production-grade Central Limit Order Book (CLOB) designed for financial markets, prioritizing microsecond latency over convenience.
