@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rajeev Ranjan Chaurasia
+# Hi there, I'm Rajeev Ranjan Chaurasia 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rajeev-ranjan-chaurasia/" target="_blank">
@@ -12,119 +12,73 @@
   </a>
 </p>
 
-As a passionate Software Engineering student, I thrive on architecting scalable distributed systems, developing robust microservices, and building AI-driven, full-stack applications. My focus is on leveraging modern cloud technologies and best practices to create impactful, efficient, and innovative software solutions.
+### Distributed Systems Engineer | High-Performance Architecture
+
+I architect systems that handle **high throughput** and **low latency** at scale. Previously at **Tekion Corp**, I engineered financial pipelines processing millions of transactions. Currently, I build **Zero-GC trading engines**, **real-time telemetry streams**, and **multi-agent AI swarms**. 
+
+I don't just write code; I design for **concurrency**, **fault tolerance**, and **eventual consistency**.
 
 ---
 
-## 🛠️ Technologies & Skills
+## ⚡ Technical Arsenal
 
-<p align="left">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
-<p align="left">
-  <strong>Backend & Frameworks:</strong><br>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-</p>
-<p align="left">
-  <strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-</p>
-<p align="left">
-  <strong>AI / ML:</strong><br>
-  <img src="https://img.shields.io/badge/CrewAI-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="CrewAI"/>
-  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Vertex AI"/>
-</p>
-<p align="left">
-  <strong>Databases & Caching:</strong><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-<p align="left">
-  <strong>Cloud, DevOps & Messaging:</strong><br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-</p>
+I specialize in polyglot development, choosing the right tool for the architectural trade-off.
+
+| **Domain** | **Stack & Patterns** |
+| :--- | :--- |
+| **Distributed Systems** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white) ![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white) <br> *Event Sourcing, CQRS, Pub/Sub, Protobuf* |
+| **Core Engineering** | ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) <br> *Concurrency Control, Lock-Free Algorithms, Memory Optimization* |
+| **AI & ML Engineering** | ![CrewAI](https://img.shields.io/badge/CrewAI-1A73E8?style=flat-square&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black) ![VertexAI](https://img.shields.io/badge/Google_Vertex-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_Vision-412991?style=flat-square&logo=openai&logoColor=white) <br> *RAG, Multi-Agent Orchestration, Vector Search* |
+| **Data & Storage** | ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Elastic](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) <br> *Time-Series, Spatial Indexing, Caching Strategies, JSONB* |
+| **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![NeoN3](https://img.shields.io/badge/Neo_N3_Blockchain-00E599?style=flat-square&logo=neo&logoColor=black) |
 
 ---
 
-## 🚀 My Projects & Contributions
+## 🏗️ Featured Engineering Projects
 
-### [TravelSwarm - Intelligent Travel Planning Assistant](https://github.com/rajeev-chaurasia/travel-swarm-app)
-*An AI-powered multi-agent system that generates personalized travel itineraries from natural language prompts, achieving a **90% itinerary acceptance rate**.*
+### 🏎️ [VoltStream - Real-Time EV Telemetry Engine](https://github.com/rajeev-chaurasia/voltstream)
+> **"Processing 10,000 events/second with sub-5ms latency."**
 
-This intelligent travel application creates personalized itineraries via a Telegram bot interface. It features Natural Language Understanding (NLU) to interpret user requests and a team of AI agents (using CrewAI with Google Vertex AI) for collaborative plan generation. The system is architected with a microservices approach, using RabbitMQ for asynchronous task processing and PostgreSQL for persistent storage.
+A distributed system designed to ingest and visualize massive sensor data streams from electric vehicle fleets.
+* **Architecture:** **Go** workers consume **gRPC** streams and fan-out to **Apache Kafka**.
+* **Scale:** Handles 1,000+ concurrent connections using buffered channels and worker pools.
+* **Data:** Persists high-velocity data to **InfluxDB** for time-series analysis.
+* **Frontend:** **Next.js** dashboard with Server-Sent Events (SSE) for live tracking.
 
-**My Contributions:**
-- Architected and developed the end-to-end system, including the Telegram bot, **Spring Boot** backend, and **Python** AI agent service.
-- Implemented the conversational flow and state management in the Spring Boot application.
-- Designed and built the hierarchical AI agent team using **CrewAI** for itinerary planning and NLU.
-- Integrated **Google Vertex AI (Gemini)** for LLM capabilities within the agent service.
-- Set up **RabbitMQ** for asynchronous communication between the Java and Python services.
-- Containerized all services using **Docker** and orchestrated them with Docker Compose, reducing deployment times by **80%**.
+### 📉 [Pulse - High-Frequency Trading Engine](https://github.com/rajeev-chaurasia/limit-order-book)
+> **"Zero-GC, Lock-Free Concurrency."**
 
-*__Tech Stack:__ Java, Spring Boot, Python, Flask, CrewAI, Google Vertex AI, RabbitMQ, PostgreSQL, Docker, Telegram Bot API.*
+A production-grade Central Limit Order Book (CLOB) designed for financial markets, prioritizing microsecond latency over convenience.
+* **Performance:** Achieved **0 bytes/op allocation rate** on the hot path using **Object Pooling**.
+* **Concurrency:** Implemented **Lock-Free** data structures (StampedLock) and atomic primitives.
+* **Optimization:** Custom intrusive linked lists to eliminate JVM object overhead.
 
-### [BookTable - Restaurant Booking System](https://github.com/gopinathsjsu/team-project-20201-synergy)
-*A secure, full-stack restaurant booking application with role-based access, geospatial search, and a complete CI/CD pipeline on AWS.*
+### ⛓️ [GigSmartPay - Decentralized Escrow Platform](https://github.com/Escrow-Bros/smart-pay)
+> **"Where Blockchain meets Computer Vision."**
 
-**My Contributions:**
-- **Cloud & DevOps Orchestration:**
-  - Led backend project setup (**Spring Boot**) and engineered deployment on **AWS Elastic Beanstalk** (EC2, ELB, ASG).
-  - Implemented **Docker** containerization with images stored in **AWS ECR**.
-  - Established a complete **CI/CD pipeline via GitHub Actions**, including JaCoCo for test coverage analysis.
-- **Secure Backend Services:**
-  - Developed user authentication using **AWS Cognito**, including **OTP support via AWS Lambda** triggers and role-based access control.
-  - Built core restaurant functionalities like location-based search using **MySQL spatial functions** (reducing query times by **40%**) and booking conflict management.
-  - Integrated **AWS SES** with Thymeleaf for automated booking confirmation/cancellation emails.
-- **Full-Stack Feature Development (Next.js & Spring Boot):**
-  - Developed the Restaurant Manager Portal for restaurant CRUD operations, dashboard analytics, and secure image uploads to **AWS S3** using pre-signed URLs.
-  - Built the User Portal for viewing profiles and managing past/upcoming bookings.
+A trustless gig-economy platform combining Smart Contracts with AI verification to automate payments.
+* **Blockchain:** **Neo N3** Smart Contracts hold funds in escrow until verification.
+* **AI Verification:** **GPT-4 Vision** analyzes "Proof of Work" photos to auto-approve releases.
+* **Reliability:** Exponential backoff WebSocket handling and startup recovery for pending transactions.
+* **Tech:** Python (FastAPI), Solidity/Boa3, Next.js, Docker.
 
-*__Tech Stack:__ Java, Spring Boot, Next.js, React, AWS (Elastic Beanstalk, ECR, Cognito, Lambda, S3, SES), Docker, GitHub Actions, MySQL (Spatial), Google Maps API, Thymeleaf.*
+### 🤖 [TravelSwarm - Multi-Agent AI Orchestrator](https://github.com/rajeev-chaurasia/travel-swarm-app)
+> **"Orchestrating AI Agents like microservices."**
 
-### [SJ Hopes - Connecting Shelter and Support](https://github.com/rajeev-chaurasia/sj-hopes)
-*A full-stack web application developed for the **SJ Hacks Hackathon (2nd Prize Winner)** to address homelessness in San Jose by providing real-time shelter visibility and work opportunities.*
-
-**My Contributions:**
-- Played a key role in developing the application's core functionality, including:
-  - Designing and implementing the **backend API (Java/Spring Boot)** for managing Shelters, Tasks, and Clients.
-  - Developing the **service logic** for shelter reservations, client-shelter linking, and task status updates.
-  - Building the **Admin analytics service** and associated API endpoints.
-  - Creating the corresponding **frontend UI flows (React/Next.js)** for client registration, shelter searching, and task management.
-
-*__Tech Stack:__ Java, Spring Boot, React, Next.js, TypeScript, MySQL, Google Maps API, Swagger.*
+A distributed planning system where specialized AI agents (Food, Transport, Activity) collaborate to build itineraries.
+* **Design:** Decoupled **Spring Boot** (Core) and **Python** (AI) services via **RabbitMQ**.
+* **AI:** Uses **CrewAI** and **Google Vertex** to manage hierarchical agent delegation.
+* **Validation:** Implemented strict Pydantic models to force LLMs to output structured, valid JSON.
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeev-chaurasia&show_icons=true&theme=radical" alt="Rajeev's GitHub Stats" height="170"/>&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeev-chaurasia&layout=compact&theme=radical" alt="Top Languages" height="170"/>&nbsp;&nbsp;
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeev-chaurasia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeev-chaurasia&theme=tokyo-night&hide_border=true&area=true" alt="Rajeev's Activity Graph" width="100%"/>
 </p>
 
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Feel free to reach out to me via email or connect with me on LinkedIn!
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeev-chaurasia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rajeev's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeev-chaurasia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="150"/>
+</p>
