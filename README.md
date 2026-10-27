@@ -1,16 +1,16 @@
 # Rajeev Ranjan Chaurasia
 
-Software engineer working on **developer infrastructure, backend systems and AI infrastructure**. MS Software Engineering at San Jose State, graduating **December 2026**. Looking for full-time software engineering roles starting **January 2027**.
+Software engineer building **backend, distributed and AI systems**. MS Software Engineering at San Jose State, graduating **December 2026**. Looking for full-time software engineering roles starting **January 2027**.
 
 [LinkedIn](https://www.linkedin.com/in/rajeev-ranjan-chaurasia/) · [Portfolio](https://rajeev-chaurasia.vercel.app/) · [Email](mailto:rajeevchaurasia.dev@gmail.com) · [acquit on PyPI](https://pypi.org/project/acquit)
 
-**NVIDIA** (Summer 2026): built dependency-aware CI test selection for Omniverse, NVIDIA's robotics simulation platform: it decides which tests a change can actually reach, across Python, C++, containers, Helm and generated GPU simulation jobs, and runs everything when the evidence is incomplete.
+**NVIDIA** (Summer 2026): built an AI-assisted system for Omniverse, NVIDIA's robotics simulation platform, that works out which tests a code change can actually affect, so each change runs only what it needs instead of the full GPU simulation suite. It combines static analysis across Python, C++, containers and generated simulation jobs with deterministic safety checks, so the AI can add evidence but can never skip a test on its own.
 
 **Tekion** (2022 to 2024): backend engineer on accounts receivable and payments for a dealership platform. Kafka and Elasticsearch reporting, Stripe payment links, a pipeline delivering 4M+ statements a month.
 
 What ties my work together: claims that can be checked. Benchmarks recompute from committed raw data, and when a system misses its own target, the repo says so.
 
-## Developer infrastructure
+## Developer tools
 
 | Project | What it does | Evidence |
 | :-- | :-- | :-- |
