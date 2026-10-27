@@ -5,6 +5,7 @@ Software engineer working on **developer infrastructure, backend systems and AI 
 [LinkedIn](https://www.linkedin.com/in/rajeev-ranjan-chaurasia/) · [Portfolio](https://rajeev-chaurasia.vercel.app/) · [Email](mailto:rajeevchaurasia.dev@gmail.com) · [acquit on PyPI](https://pypi.org/project/acquit)
 
 **NVIDIA** (Summer 2026): built dependency-aware CI test selection for Omniverse, NVIDIA's robotics simulation platform: it decides which tests a change can actually reach, across Python, C++, containers, Helm and generated GPU simulation jobs, and runs everything when the evidence is incomplete.
+
 **Tekion** (2022 to 2024): backend engineer on accounts receivable and payments for a dealership platform. Kafka and Elasticsearch reporting, Stripe payment links, a pipeline delivering 4M+ statements a month.
 
 What ties my work together: claims that can be checked. Benchmarks recompute from committed raw data, and when a system misses its own target, the repo says so.
