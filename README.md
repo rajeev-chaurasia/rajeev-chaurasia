@@ -42,7 +42,7 @@ What ties my work together: claims that can be checked. Benchmarks recompute fro
 **Hackathon wins:**
 - [Signet](https://github.com/projects-hacks/signet): two sponsor prizes at the DevNetwork API + Cloud + AI Hackathon 2026 (Foxit and Doctavian). Invoices that prove who sent them, checkable with `dig` and `openssl`.
 - [ClaraCare](https://github.com/projects-hacks/clara-care): Deepgram "Voice Operator" prize, DeveloperWeek 2026. A voice companion that calls seniors daily and tracks cognitive change.
-- [SJ Hopes](https://github.com/rajeev-chaurasia/sj-hopes): Best for Homelessness, SJHacks 2025. Shelter beds on a map for caseworkers.
+- [SJ Hopes](https://github.com/rajeev-chaurasia/sj-hopes): 2nd place and Best for Homelessness, SJHacks 2025. Shelter beds on a map for caseworkers.
 
 More builds on [Devpost](https://devpost.com/rajeevranjan-chaurasia) and in [projects-hacks](https://github.com/projects-hacks).
 
