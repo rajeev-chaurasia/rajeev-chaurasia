@@ -39,6 +39,11 @@ What ties my work together: claims that can be checked. Benchmarks recompute fro
 
 **Open source:** 5 merged PRs to [RocketRide](https://github.com/rocketride-org/rocketride-server/pulls?q=is%3Apr+author%3Arajeev-chaurasia), an AI pipeline runtime (C++ and Python): runtime delivery fixes, MCP developer tooling, RAG grounding.
 
-**Hackathons:** winner at DeveloperWeek 2026 (Deepgram prize, [ClaraCare](https://github.com/projects-hacks/clara-care)) and two more wins ([ClearClause](https://github.com/projects-hacks/clear-clause), SJ Hopes). Other builds in [projects-hacks](https://github.com/projects-hacks).
+**Hackathon wins:**
+- [Signet](https://github.com/projects-hacks/signet): two sponsor prizes at the DevNetwork API + Cloud + AI Hackathon 2026 (Foxit and Doctavian). Invoices that prove who sent them, checkable with `dig` and `openssl`.
+- [ClaraCare](https://github.com/projects-hacks/clara-care): Deepgram "Voice Operator" prize, DeveloperWeek 2026. A voice companion that calls seniors daily and tracks cognitive change.
+- [SJ Hopes](https://github.com/rajeev-chaurasia/sj-hopes): Best for Homelessness, SJHacks 2025. Shelter beds on a map for caseworkers.
 
-**Certification:** [NVIDIA Certified Professional: Agentic AI](https://www.credly.com/badges/86057ac4-f66e-469e-a68a-5104cfd2f886) (2026)
+More builds on [Devpost](https://devpost.com/rajeevranjan-chaurasia) and in [projects-hacks](https://github.com/projects-hacks).
+
+**Certifications:** [NVIDIA Certified Professional: Agentic AI](https://www.credly.com/badges/86057ac4-f66e-469e-a68a-5104cfd2f886/public_url) · [NVIDIA Certified Professional: Generative AI LLMs](https://www.credly.com/badges/50b368a3-c98e-4838-8559-34f47a795ce2/public_url)
